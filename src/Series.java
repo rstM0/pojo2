@@ -70,5 +70,4 @@ class series {
         this.averageRating = averageRating;
 
     }
-
 }
